@@ -138,8 +138,16 @@ NEXT_PUBLIC_SOLANA_NETWORK=devnet
 NEXT_PUBLIC_RPC_URL=https://api.devnet.solana.com
 NEXT_PUBLIC_PROGRAM_ID=<paste_program_id_kamu>
 ```
+#### 6. Library in app
 
-#### 6. Copy IDL ke Frontend
+npm install @solana/web3.js
+npm install @solana/wallet-adapter-react
+npm install @solana/wallet-adapter-react-ui
+npm install @solana/wallet-adapter-wallets
+npm install @solana/wallet-adapter-base
+npm install @solana/wallet-adapter-phantom
+
+#### 7. Copy IDL ke Frontend
 
 ```bash
 # Dari root project
@@ -148,7 +156,7 @@ cp target/idl/solemn.json app/idl/
 cp target/types/solemn.ts app/idl/
 ```
 
-#### 7. Run Development Server
+#### 8. Run Development Server
 
 ```bash
 cd app
@@ -374,7 +382,16 @@ NEXT_PUBLIC_RPC_URL=https://api.devnet.solana.com
 NEXT_PUBLIC_PROGRAM_ID=<paste_your_program_id>
 ```
 
-#### 6. Copy IDL to Frontend
+#### 6. Library used
+
+npm install @solana/web3.js
+npm install @solana/wallet-adapter-react
+npm install @solana/wallet-adapter-react-ui
+npm install @solana/wallet-adapter-wallets
+npm install @solana/wallet-adapter-base
+npm install @solana/wallet-adapter-phantom
+
+#### 7. Copy IDL to Frontend
 
 ```bash
 # From project root
@@ -383,7 +400,7 @@ cp target/idl/solemn.json app/idl/
 cp target/types/solemn.ts app/idl/
 ```
 
-#### 7. Run Development Server
+#### 8. Run Development Server
 
 ```bash
 cd app
