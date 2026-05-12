@@ -257,11 +257,6 @@ Stop dev server (`Ctrl+C`), lalu run ulang `npm run dev`.
 
 MIT License — bebas digunakan untuk apapun.
 
-### 👥 Kontributor
-
-- [Nama Kamu](https://github.com/<username>)
-
----
 
 ## 🇬🇧 English
 
@@ -533,11 +528,7 @@ Stop dev server (`Ctrl+C`), then run `npm run dev` again.
 
 MIT License — free to use for anything.
 
-### 👥 Contributors
 
-- [Your Name](https://github.com/<username>)
-
----
 
 <div align="center">
 
