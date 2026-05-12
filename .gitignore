@@ -1,0 +1,48 @@
+# ===== ANCHOR / RUST =====
+target/
+.anchor/
+**/*.rs.bk
+Cargo.lock
+# ===== NODE =====
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+# ===== NEXT.JS =====
+.next/
+out/
+build/
+dist/
+**/.next/
+**/out/
+# ===== ENV & SECRETS (PENTING!) =====
+.env
+.env.local
+.env*.local
+**/.env
+**/.env.local
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursorignore
+# ===== OS =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+# ===== LOGS =====
+*.log
+logs/
+
+# ===== TYPESCRIPT =====
+*.tsbuildinfo
+next-env.d.ts
+# ===== TESTING =====
+coverage/
+.nyc_output/
+
+# ===== VERCEL =====
+.vercel
