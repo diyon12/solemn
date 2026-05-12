@@ -73,7 +73,7 @@ Pastikan sistem kamu sudah terinstall:
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/solemn.git
+git clone https://github.com/diyon12/solemn.git
 cd solemn
 ```
 
@@ -313,7 +313,7 @@ Make sure your system has:
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/solemn.git
+git clone https://github.com/diyon12/solemn.git
 cd solemn
 ```
 
