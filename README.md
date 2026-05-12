@@ -13,7 +13,7 @@ An on-chain commitment platform built on Solana that turns promises into stakes 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-[🌐 Live Demo](#) · [🎥 Demo Video](#) · [📊 Pitch Deck](#)
+[🌐 Live Demo](#) · [🎥 Demo Video](https://drive.google.com/file/d/1cufjPGtW2aUnG5K0_FbtfvskKNb77Gbb/view?usp=sharing) · [📊 Pitch Deck](#)
 
 ---
 
